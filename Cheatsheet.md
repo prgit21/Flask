@@ -13,7 +13,7 @@ Step2: flask_run
   
   
  To run CSS:
-<link rel= "stylesheet" type= "text/css" href= "{{ url_for('static',filename='styles/mainpage.css') }}">
+ link rel= "stylesheet" type= "text/css" href= "{{ url_for('static',filename='styles/mainpage.css') }}">
 
 
   
