@@ -1,6 +1,12 @@
 # Flask
 Learning
 
+Create env  
+
+py -3 -m venv <name of environment>
+
+
+
 Entering env-
 
 . <name of environment>/bin/activate
